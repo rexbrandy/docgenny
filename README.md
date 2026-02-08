@@ -118,8 +118,6 @@ The generated documentation includes:
 3. **Models & Schemas** - Detailed class documentation
 4. **Functions & Utilities** - Function reference
 
-See [example output](examples/sample_output.md) for a full example.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
@@ -128,7 +126,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/docgenny.git
+git clone https://github.com/rexbrandy/docgenny.git
 cd docgenny
 
 # Create virtual environment
@@ -152,8 +150,8 @@ If you find this tool useful, please consider giving it a star on GitHub!
 
 ## 📮 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Issues: [GitHub Issues](https://github.com/yourusername/docgenny/issues)
+- GitHub: [@yourusername](https://github.com/rexbrandy)
+- Issues: [GitHub Issues](https://github.com/rexbrandy/docgenny/issues)
 
 ## 🙏 Acknowledgments
 
